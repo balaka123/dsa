@@ -1,0 +1,56 @@
+---- registered Patient ---------------
+No of patients added: 3
+Refreshed queue:
+771660, Surya
+778957, Rishi
+585854, Ajay
+----------------------------------------------
+
+---- new patient entered---------------
+Patient details: John, 55, 600855
+Refreshed queue: 
+771660, Surya
+778957, Rishi
+600855, John
+585854, Ajay
+----------------------------------------------
+
+---- next patient: 1 ---------------
+Next patient for testing is: 771660, Surya
+----------------------------------------------
+
+---- new patient entered---------------
+Patient details: Pradeep, 45, 647145
+Refreshed queue: 
+778957, Rishi
+600855, John
+585854, Ajay
+647145, Pradeep
+----------------------------------------------
+
+---- next patient: 2 ---------------
+Next patient for testing is: 778957, Rishi
+Next patient for testing is: 600855, John
+----------------------------------------------
+
+---- next patient: 1 ---------------
+Next patient for testing is: 585854, Ajay
+----------------------------------------------
+
+---- new patient entered---------------
+Patient details: Sandeep, 60, 654960
+Refreshed queue: 
+654960, Sandeep
+647145, Pradeep
+----------------------------------------------
+
+---- next patient: 3 ---------------
+---- patient waiting is only: 2
+Next patient for testing is: 654960, Sandeep
+Next patient for testing is: 647145, Pradeep
+----------------------------------------------
+
+---- next patient: 1 ---------------
+No patient is waiting for the testing
+----------------------------------------------
+
