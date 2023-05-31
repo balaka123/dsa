@@ -1,0 +1,3 @@
+Product Sequence: F, A, E, B, C, D, G
+Total time to complete photoshoot: 265
+Idle time for Xavier: 60
