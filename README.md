@@ -1,4 +1,4 @@
-# dsa
+# Data Structure and Algorithm
 
 DSA – Assignment – PS20 – Q1
 Problem Statement:
